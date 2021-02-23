@@ -17,7 +17,7 @@ Please follow the below instructions to run this project in your machine:
 
 1. Open your terminal instructions to run this project in your machine:
    ```
-   https://github.com/hossainrabbi/react-core-concept.git
+   git clone https://github.com/hossainrabbi/react-core-concept.git
    ```
 2. Go to root directory:
    ```
